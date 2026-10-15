@@ -15,21 +15,21 @@ Just download the utility you need, open it, and get the job done.
 
 ## Utilities
 
-### Paradis Capture
+### [Paradis Capture](https://github.com/Paradis-EZ-Utilities/Paradis-Capture)
 A simple, lightweight Windows screen and audio recorder.
 
 **Use it when:** you just want to record your screen without dealing with a full streaming or production suite.
 
 ---
 
-### Paradis Transcript
+### [Paradis Transcript](https://github.com/Paradis-EZ-Utilities/Paradis-Transcript)
 Simple Windows audio/video transcription with local processing and automatic text exports.
 
 **Use it when:** you want a transcript without uploading your recordings to an online service.
 
 ---
 
-### Paradis Trim
+### [Paradis Trim](https://github.com/Paradis-EZ-Utilities/Paradis-Trim)
 A lightweight audio and video trimmer for quickly cutting media down to the part you actually want.
 
 **Use it when:** opening a full video or audio editor feels like massive overkill.
