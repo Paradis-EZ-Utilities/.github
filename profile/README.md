@@ -22,6 +22,13 @@ A simple, lightweight Windows screen and audio recorder.
 
 ---
 
+### [Paradis Compress](https://github.com/Paradis-EZ-Utilities/Paradis-Compress)
+Shrink video files with simple compression presets or an optional target file size. Includes MP3 audio extraction and keeps your original files untouched.
+
+**Use it when:** your video or audio file is too large to upload to a desired platform, or you simply need to save space.
+
+---
+
 ### [Paradis Transcript](https://github.com/Paradis-EZ-Utilities/Paradis-Transcript)
 Simple Windows audio/video transcription with local processing and automatic text exports.
 
