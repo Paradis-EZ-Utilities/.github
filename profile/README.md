@@ -29,6 +29,14 @@ Shrink video files with simple compression presets or an optional target file si
 
 ---
 
+### [Paradis Resize](https://github.com/Paradis-EZ-Utilities/Paradis-Resize)
+
+A lightweight Windows image resizer and optimizer for making oversized images more reasonable.
+
+**Use it when:** you need to shrink or resize images without dealing with a full image editor or complicated compression settings.
+
+---
+
 ### [Paradis Transcript](https://github.com/Paradis-EZ-Utilities/Paradis-Transcript)
 Simple Windows audio/video transcription with local processing and automatic text exports.
 
