@@ -11,6 +11,8 @@ No cloud processing unless a tool specifically requires it.
 
 Just download the utility you need, open it, and get the job done.
 
+Join my Discord if you have any issues; https://discord.gg/AGJ79FQvTm
+
 ---
 
 ## Utilities
