@@ -77,7 +77,9 @@ Your files stay yours.
 
 These utilities are free to use.
 
-If they save you some time and you would like to support future development, donation options may be added later.
+Join my Discord if you have any issues; https://discord.gg/AGJ79FQvTm
+
+If these utilities save you some time and you would like to support future development, donation options may be added later.
 
 ---
 
